@@ -1,0 +1,26 @@
+{
+  "id": "563e6213-dd6b-4d5e-9b49-73c64c68c115",
+  "name": "Exercise",
+  "publisher": "SV Cloud test",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Test2.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
